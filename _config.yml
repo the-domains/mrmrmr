@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.7510638
+  lightness: 0.5276596
+  brandStrength: 0.4957447
+  brandColors:
+    - '#392720'
+    - '#5C4B42'
+    - '#769B6E'
+    - '#D0B288'
+    - '#F2EADF'
+  rhythmicContrast: 0.8978723
+typography_spectrum: 0.3468085
+name: mrmrmr
